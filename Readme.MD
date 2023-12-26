@@ -15,7 +15,7 @@ There are four main sections:
 
 **Section 2: Analysis of Individual Sampels:** The algorithm starts to do the analysis starting by stardist segmentation, membrane segmentation, create cell information tables, calculate average intensities, run clustering, and producing all the tables and plots.
 
-![Section2: Analysis of Individual Sampels](images/Analysis_of _Individual_Sampels.png)
+![Section2: Analysis of Individual Sampels](images/Analysis_of_Individual_Sampels.png)
 
 **Section 3: Analysis after User Phenotyping** At this stage the user needs to phenotype and re-run this section to get all the plots and tables after phenotyping.
 
@@ -37,7 +37,9 @@ conda activate rapids-22.04
 
 pip install scanpy
 
+### Project Collaborators and Contact
 
+**Author:** Dr. Yasmin M. Kassim    
+**Contact:** ymkgz8@mail.missouri.edu
 
-
-
+Contact me if you are intersted about other machine learning and computer vision tasks such as augmentation, dataset annotation, preprocessing, 2D/3D segmentation, 2D/3D object detection, classsification, and denoising.
